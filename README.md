@@ -78,9 +78,9 @@ The following large files are hosted on Zenodo. Download them and place them in 
 
 | Task | File(s) | Destination | Zenodo Link |
 |------|---------|-------------|--------------|
-| Classification | `unimol_cls_repr.npy` | `data/` | [Download](https://doi.org/10.5281/zenodo.xxxxxxx) |
-| Classification | `classifier_fold_0.pt` … `classifier_fold_4.pt` | `models/V+E+G+U/classifier/` | [Download](https://doi.org/10.5281/zenodo.xxxxxxx) |
-| Regression | `regressor_fold_0.pt` … `regressor_fold_4.pt` | `models/V+E+G+U/regressor/` | [Download](https://doi.org/10.5281/zenodo.xxxxxxx) |
+| Classification | `unimol_cls_repr.npy` | `data/` | [Download](https://zenodo.org/records/20838049) |
+| Classification | `classifier_fold_0.pt` … `classifier_fold_4.pt` | `models/V+E+G+U/classifier/` | [Download](https://zenodo.org/records/20838049) |
+| Regression | `regressor_fold_0.pt` … `regressor_fold_4.pt` | `models/V+E+G+U/regressor/` | [Download](https://zenodo.org/records/20838049) |
 
 *Replace the Zenodo DOI with the actual repository DOI.*
 
