@@ -162,4 +162,4 @@ Use `--device cuda` or `--device cpu` to force a specific device; by default, CU
 ---
 
 **If you use DeepMolVir in your research, please cite:**  
-*(Pengxuan Ren, Fengyu Cai, Mengyu Cheng, Ye Zhao, Shihang Wang, Yunze Zhang, Lu Liu, Qian Zheng, Xianglei Zhang; DeepMolVir: Learning Virtual Virus Representations for Sequence-Aware Virus–Inhibitor Activity Prediction. J. Chem. Inf. Model. 2026; https://doi.org/10.1021/acs.jcim.6c02144.)*
+*Pengxuan Ren, Fengyu Cai, Mengyu Cheng, Ye Zhao, Shihang Wang, Yunze Zhang, Lu Liu, Qian Zheng, Xianglei Zhang; DeepMolVir: Learning Virtual Virus Representations for Sequence-Aware Virus–Inhibitor Activity Prediction. J. Chem. Inf. Model. 2026; https://doi.org/10.1021/acs.jcim.6c02144.*
